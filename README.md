@@ -1,6 +1,4 @@
-# Optimized-Predictive-Model-Development-Using-Advanced-Pipelines
-
-# Classifier/ Regression for Median Prices for Postcodes
+# Regression Model Development Using Advanced Pipelines for Median Prices for Postcodes
 
 ## Project Overview
 
@@ -90,4 +88,4 @@ Please refer to the provided Python script for detailed code implementation and 
     - Max Error: 4.768
 
 ### Note:
-For detailed analysis and code implementation, please refer to the 'Median_House_Testing.ipynb' notebook in the notebook folder.
+For detailed analysis and code implementation, please refer to the 'Barin Final Model.ipynb' notebook in the notebook folder.
