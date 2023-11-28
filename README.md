@@ -5,7 +5,6 @@
 This project focused on predicting median house prices for different postcodes. The data posed challenges due to significant outliers and a lack of high correlation between main features and the target variable. The code primarily succeeded by imposing a strict threshold to remove outliers from the training and test datasets. The main notebook detailing the analysis can be found in the 'Barin Final Model.ipynb' file.
 
 
-# Median House Price Prediction for Postcodes
 
 This project focuses on predicting median house prices for different postcodes using machine learning techniques.
 
